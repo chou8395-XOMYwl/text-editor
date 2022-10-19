@@ -42,9 +42,6 @@ To run program:
 - WHEN I deploy to Heroku
 - THEN I should have proper build scripts for a webpack application
 
-## Screenshot of Deployed Application
-text-editor.png
-
 ## Deployed Application
 
 https://text-editor-pwa-uofr.herokuapp.com/
