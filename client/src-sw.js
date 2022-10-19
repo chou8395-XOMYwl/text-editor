@@ -35,4 +35,3 @@ registerRoute(
     ],
   })
 );
-// TODO: Implement asset caching
